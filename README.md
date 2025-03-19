@@ -1,6 +1,6 @@
 # 🚀 GĐPT AN CÁT
 
-This is a website containing information about a religious organization.
+This is a website containing information about a religious organization: https://github.com/Vahuki/module1_case_study
 
 ### 🖼 Project Screenshot: https://byvn.net/z0Iu
 
