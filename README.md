@@ -2,7 +2,8 @@
 
 This is a website containing information about a religious organization: https://github.com/Vahuki/module1_case_study
 
-### ⚙ Project Deployment: https://vahuki.github.io/module1_case_study/
+## ⚙ Project Deployment: https://vahuki.github.io/module1_case_study/
+## 🎬 Project Presentation: https://byvn.net/fcEh
 
 ## 🌟 Features
 - 🏠 Homepage with structured layout
